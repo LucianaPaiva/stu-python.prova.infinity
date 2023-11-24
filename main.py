@@ -1,6 +1,7 @@
 lista1 = []
 lista2 = []
 
+
 print("-"*30)
 print("Digite os números inteiros para a LISTA 1")
 print("Para interromper a inclusão, digite SAIR.")
